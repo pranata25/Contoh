@@ -1,0 +1,35 @@
+.baris {
+  display: flex;
+}
+
+.padding{
+  padding: 20px;
+}
+
+.m-horizontal {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.m-vertical {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.bg-blue {
+  background-color: blue;
+}
+
+.bg-orange {
+  background-color: orange;
+}
+
+.bg-darkred {
+  background-color: darkred;
+}
+
+.bg-cadetblue {
+  background-color: cadetblue;
+  margin-left: -0px;
+  margin-top: 20px;
+}
